@@ -1,7 +1,7 @@
 # <div align="center"> Forecast Hunter</div>
 ___<div align="center"> A toolbox for assessing seasonal weather forecast data usability on ETo estimation </div>___
 
-<div align="center">Project developed by Daniel Garcia, student number 23790, within the scope of the course "Introduction to Python 2023/2024", integrated into the Master's program in Green Data Science at the Higher Institute of Agronomy.</div><br><br>
+<div align="center">Project developed by Daniel Garcia, student number 23790, within the scope of the course "Introduction to Python 2023/2024", integrated into the Master's program in Green Data Science at Instituto Superior de Agronomia.</div><br><br>
 
 
 ## Background and objective:
