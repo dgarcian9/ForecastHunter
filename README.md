@@ -8,7 +8,7 @@ ___<div align="center"> A toolbox for assessing seasonal weather forecast data u
 
 Decision-making processes always involve a component of risk/uncertainty, especially in activities strongly influenced by climate, such as agriculture. The ability to anticipate medium to long-term weather conditions allows for a preventive approach and decision-making in line with that knowledge. Seasonal forecasts produced by numerical models aim to address this need.
 
-This project arises from an interest in evaluating the performance of seasonal forecasts as a tool to support irrigation management. The Python program developed aims to compare Reference Evapotranspiration (ET<sub>0</sub>) values, a variable used to model soil water balance and estimate irrigation needs, obtained using observed data and seasonal forecast data. The program provides the user with a graphical element for visualizing this comparison.<br><br>
+This project arises from an interest in evaluating the performance of seasonal forecasts as a tool to support irrigation management. The Python developed program aims to compare Reference Evapotranspiration (ET<sub>0</sub>) values, a variable used to model soil water balance and estimate irrigation needs, obtained using observed data and seasonal forecast data. The program provides the user with a graphical element for visualizing this comparison.<br><br>
 
 
 ## Project composition:
